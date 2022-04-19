@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "team1",
+        "score" : "20"
+    },{
+        "name" : "team2",
+        "score" : "22"
+    },{
+        "name" : "team3",
+        "score" : "23"
+    },{
+        "name" : "team4",
+        "score" : "24"
+    }
+]
